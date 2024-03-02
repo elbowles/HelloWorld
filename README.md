@@ -1,2 +1,0 @@
-# HelloWorld
-HelloWord Assignment 
